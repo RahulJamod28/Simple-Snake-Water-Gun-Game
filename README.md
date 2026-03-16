@@ -24,5 +24,3 @@ The computer randomly chooses an option, and the winner is decided using game ru
 
 ---
 
-## 📂 Project Structure
-
